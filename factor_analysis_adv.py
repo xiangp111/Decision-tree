@@ -1,8 +1,4 @@
-"""
-update:2024/04/16
-for: adv class
-author:Nick_Ni
-"""
+
 
 import pandas as pd 
 import numpy as np
